@@ -1,5 +1,6 @@
 SHINY_ACC_NAME=ayoubkassi
 TOKEN=BB31C587E1870872ABCE4AB17DBCA195
 SECRET=rxCoyGdmyvuDxcGGUF+KKQ7sOdNXkUZGovk4PzQN
-MASTERNAMEmines-vaccine-prediction
+MASTERNAME=mines-vaccine-prediction
 TESTNAME=mines-vaccine-prediction
+

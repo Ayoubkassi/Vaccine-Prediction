@@ -15,7 +15,7 @@ ipak(packages)
 
 # data Loading
 
-vaccine_dataset <- read.csv("/home/kassi/Desktop/Chrani/Data/vaccine.csv") # , header = TRUE, sep = ";", stringsAsFactors = FALSE
+vaccine_dataset <- read.csv("./Data/vaccine.csv") # , header = TRUE, sep = ";", stringsAsFactors = FALSE
 
 
 dim(vaccine_dataset)

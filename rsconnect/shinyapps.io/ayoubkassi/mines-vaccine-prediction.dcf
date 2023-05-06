@@ -1,0 +1,11 @@
+name: mines-vaccine-prediction
+title: shinyapplication
+username:
+account: ayoubkassi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9043451
+bundleId: 7182215
+url: https://ayoubkassi.shinyapps.io/mines-vaccine-prediction/
+when: 1683379615.36681
+lastSyncTime: 1683379615.36683
