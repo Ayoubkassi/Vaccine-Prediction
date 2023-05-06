@@ -1,0 +1,11 @@
+name: mines-heart-disease
+title: shinyapplication
+username:
+account: ayoubkassi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8661850
+bundleId: 7179532
+url: https://ayoubkassi.shinyapps.io/mines-heart-disease/
+when: 1683307081.26305
+lastSyncTime: 1683307081.26307

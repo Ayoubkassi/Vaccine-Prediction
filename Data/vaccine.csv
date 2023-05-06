@@ -1,0 +1,227 @@
+Catégorie,Genre,Age,Nombre Doses Vaccin,Socio-professionelle,Taille ville,Positionnement politique,Entourage,Passif Covid,Gène des Mesures,Confiance Gouvernement,Scepticisme Mesure,Scepticisme Pandémie,Scepticisme Vaccin
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins 100 000 habitants,Centre,Pro-vax,Non touché,Peu,Très,Peu,Pas du tout,Peu
+Pro-vax,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Peu,Peu,Peu
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Peu,Neutre,Pas du tout,Peu,Peu
+Pro-vax,Femme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Neutre,Peu,Peu,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 1 000 habitants,Extrème-droite,Pro-vax,Non touché,Peu,Plutôt,Neutre,Peu,Peu
+Pro-vax,Homme,18-25 ans,1,Etudiants,Moins de 1 000 000 habitants,NA,Pro-vax,Non touché,Peu,Neutre,Peu,Peu,Peu
+Anti-vax,Homme,56-65 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,NA,Anti-Vax,Non touché,Plutôt,Peu,Très,Plutôt,Très
+Anti-vax,Homme,18-25 ans,0,Etudiants,Moins de 100 000 habitants,Extrème-gauche,Anti-Vax,Non touché,Plutôt,Peu,Plutôt,Plutôt,Neutre
+Pro-vax,Homme,18-25 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Pro-vax,Très touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Pas du tout,Très,Peu,Peu,Peu
+Pro-vax,Femme,26-35 ans,3,Employés,Moins de 10 000 habitants,Centre,Neutre,Non touché,Peu,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,36-45 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,NA,Pro-vax,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Peu,Neutre,Peu,Neutre,Peu
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Centre,Anti-Vax,Non touché,Très,Peu,Plutôt,Plutôt,Plutôt
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Peu touché,Neutre,Neutre,Peu,Peu,Peu
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,NA,Pro-vax,Peu touché,Peu,Plutôt,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Neutre,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Peu,Très,Peu,Pas du tout,Peu
+Pro-vax,Homme,56-65 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,NA,Neutre,Non touché,Peu,Plutôt,Peu,Peu,Neutre
+Anti-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Anti-Vax,Non touché,Plutôt,Peu,Peu,Neutre,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Pro-vax,Peu touché,Peu,Plutôt,Pas du tout,Peu,Pas du tout
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Neutre,Très,Pas du tout,Pas du tout,Peu
+Pro-vax,Homme,26-35 ans,2,Apprentis,Moins de 10 000 habitants,Droite,Pro-vax,Non touché,Peu,Très,Pas du tout,Pas du tout,Pas du tout
+Neutre,Femme,18-25 ans,3,Employés,Moins de 1 000 000 habitants,NA,Pro-vax,Non touché,Neutre,Peu,Plutôt,Plutôt,Neutre
+Anti-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Extrème-droite,Anti-Vax,Peu touché,Très,Pas du tout,Neutre,Plutôt,Peu
+Anti-vax,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Anti-Vax,Non touché,Très,Pas du tout,Plutôt,Très,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Droite,Neutre,Non touché,Peu,Très,Peu,Pas du tout,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Peu touché,Neutre,Plutôt,Peu,Pas du tout,Peu
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Peu,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Plus de 1 000 000 habitants,Centre,Pro-vax,Non touché,Neutre,Neutre,Peu,Peu,Neutre
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Neutre,Peu,Neutre,Neutre,Neutre
+Pro-vax,Femme,36-45 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Peu,Peu,Peu
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 1 000 000 habitants,Centre,Pro-vax,Peu touché,Neutre,Neutre,Peu,Neutre,Peu
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Neutre,Non touché,Peu,Neutre,Peu,Peu,Peu
+Anti-vax,Homme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,Centre,Anti-Vax,Non touché,Neutre,Pas du tout,Neutre,Plutôt,Plutôt
+Neutre,Femme,46-55 ans,3,Professions intermédiaires,Moins de 100 000 habitants,Gauche,Neutre,Non touché,Neutre,Neutre,Peu,Neutre,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Peu,Peu
+Neutre,Autre,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,Centre,Anti-Vax,Non touché,Très,Neutre,Neutre,Neutre,Neutre
+Neutre,Homme,18-25 ans,3,Employés,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,Centre,Pro-vax,Peu touché,Peu,Très,Peu,Pas du tout,Pas du tout
+Pro-vax,Femme,56-65 ans,3,Professions intermédiaires,Moins de 1 000 habitants,NA,Pro-vax,Peu touché,Peu,Plutôt,Peu,Peu,Peu
+Anti-vax,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Gauche,Anti-Vax,Non touché,Très,Pas du tout,Plutôt,Plutôt,Plutôt
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Neutre,Peu touché,Plutôt,Peu,Neutre,Plutôt,Neutre
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,NA,Neutre,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Extrème-gauche,Neutre,Non touché,Plutôt,Pas du tout,Plutôt,Neutre,Plutôt
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Peu,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,26-35 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Neutre,Peu touché,Peu,Neutre,Peu,Peu,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,Centre,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Peu,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Femme,46-55 ans,3,Employés,Moins de 100 000 habitants,Centre,Pro-vax,Peu touché,Peu,Très,Peu,Pas du tout,Peu
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Extrème-droite,Anti-Vax,Non touché,Peu,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Pro-vax,Non touché,Neutre,Peu,Peu,Neutre,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Peu,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Très,Peu,Pas du tout,Peu
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,NA,Pro-vax,Peu touché,Neutre,Plutôt,Neutre,Peu,Peu
+Pro-vax,Femme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Peu,Peu
+Neutre,Femme,26-35 ans,3,Etudiants,Moins de 10 000 habitants,NA,Neutre,Non touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Homme,26-35 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Neutre,Peu touché,Peu,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Femme,Moins de 18 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Pas du tout,Peu
+Anti-vax,Homme,18-25 ans,0,Etudiants,Plus de 1 000 000 habitants,Droite,Anti-Vax,Non touché,Très,Pas du tout,Très,Très,Plutôt
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Neutre,Non touché,Neutre,Neutre,Peu,Neutre,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Plutôt,Neutre,Pas du tout,Peu,Peu
+Neutre,Femme,18-25 ans,2,Etudiants,Plus de 1 000 000 habitants,Centre,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Neutre
+Neutre,Femme,46-55 ans,1,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,NA,Anti-Vax,Non touché,Plutôt,Peu,Neutre,Plutôt,Neutre
+Pro-vax,Femme,46-55 ans,3,Professions intermédiaires,Moins de 1 000 000 habitants,Centre,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 1 000 000 habitants,NA,Neutre,Non touché,Plutôt,Neutre,Neutre,Plutôt,Peu
+Pro-vax,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Extrème-gauche,Pro-vax,Peu touché,Neutre,Plutôt,Peu,Peu,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Peu,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Neutre,Pas du tout,Neutre,Pas du tout
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Femme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,Centre,Neutre,Non touché,Neutre,Neutre,Peu,Peu,Pas du tout
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,Centre,Anti-Vax,Non touché,Plutôt,Neutre,Neutre,Peu,Neutre
+Pro-vax,Femme,56-65 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Anti-Vax,Non touché,Neutre,Neutre,Pas du tout,Peu,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Neutre,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Extrème-gauche,Neutre,Peu touché,Neutre,Peu,Peu,Neutre,Peu
+Pro-vax,Homme,56-65 ans,3,Employés,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Anti-vax,Femme,26-35 ans,3,Etudiants,Moins de 1 000 000 habitants,Extrème-gauche,Neutre,Non touché,Très,Peu,Neutre,Neutre,Neutre
+Neutre,Femme,46-55 ans,2,Employés,Moins de 10 000 habitants,Centre,Neutre,Non touché,Neutre,Peu,Neutre,Plutôt,Neutre
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Peu,Neutre,Pas du tout,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Plus de 1 000 000 habitants,NA,Pro-vax,Non touché,Neutre,Plutôt,Peu,Pas du tout,Peu
+Pro-vax,Femme,36-45 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Anti-Vax,Peu touché,Neutre,Peu,Neutre,Neutre,Plutôt
+Neutre,Femme,46-55 ans,3,Employés,Moins de 100 000 habitants,NA,Neutre,Peu touché,Neutre,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Femme,46-55 ans,3,Employés,Moins de 1 000 habitants,Droite,Pro-vax,Non touché,Peu,Neutre,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,Droite,Pro-vax,Peu touché,Neutre,Plutôt,Peu,Pas du tout,Pas du tout
+Anti-vax,Homme,18-25 ans,0,Professions intermédiaires,Plus de 1 000 000 habitants,NA,Anti-Vax,Non touché,Très,Peu,Plutôt,Plutôt,Plutôt
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Peu,Neutre,Peu,Neutre,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Pro-vax,Très touché,Peu,Plutôt,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Neutre,Peu,Neutre,Neutre,Neutre
+Neutre,Homme,18-25 ans,3,Employés,Moins de 10 000 habitants,NA,Neutre,Non touché,Neutre,Pas du tout,Peu,Neutre,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Neutre,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Neutre,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Neutre,Plutôt,Peu,Peu,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Peu,Plutôt,Peu,Neutre,Peu
+Anti-vax,Homme,18-25 ans,0,Etudiants,Moins de 100 000 habitants,NA,Anti-Vax,Non touché,Très,Pas du tout,Très,Très,Très
+Anti-vax,Femme,18-25 ans,0,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 habitants,NA,Anti-Vax,Non touché,Plutôt,Peu,Plutôt,Plutôt,Plutôt
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Neutre
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Très,Pas du tout,Très,Très,Très
+Neutre,Femme,26-35 ans,3,Employés,Moins de 100 000 habitants,NA,Neutre,Peu touché,Peu,Neutre,Peu,Peu,Neutre
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Peu,Neutre,Peu,Neutre,Pas du tout
+Anti-vax,Homme,18-25 ans,0,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Très,Pas du tout,Très,Très,Très
+Pro-vax,Femme,36-45 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Gauche,Neutre,Non touché,Peu,Neutre,Peu,Neutre,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Neutre,Peu,Neutre
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Peu,Peu,Neutre
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Plutôt,Pas du tout,Neutre,Plutôt,Neutre
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Anti-Vax,Non touché,Neutre,Plutôt,Peu,Peu,Peu
+Neutre,Homme,18-25 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,Centre,Anti-Vax,Non touché,Neutre,Peu,Neutre,Plutôt,Neutre
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Peu touché,Peu,Très,Pas du tout,Peu,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Neutre,Plutôt,Pas du tout,Peu,Pas du tout
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Neutre,Neutre,Peu,Neutre
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Peu touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 1 000 habitants,Centre,Anti-Vax,Non touché,Neutre,Peu,Plutôt,Très,Plutôt
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Neutre,Non touché,Peu,Neutre,Peu,Peu,Peu
+Pro-vax,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Très touché,Peu,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Autre,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Extrème-gauche,Neutre,Peu touché,Peu,Neutre,Peu,Peu,Peu
+Anti-vax,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Gauche,Anti-Vax,Non touché,Très,Neutre,Plutôt,Plutôt,Plutôt
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Pas du tout,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Neutre,Très touché,Pas du tout,Plutôt,Peu,Peu,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,Droite,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,NA,Pro-vax,Non touché,Peu,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,NA,Neutre,Non touché,Plutôt,Plutôt,Neutre,Peu,Neutre
+Neutre,Homme,18-25 ans,2,Etudiants,Plus de 1 000 000 habitants,NA,Neutre,Non touché,Plutôt,Plutôt,Neutre,Peu,Neutre
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Centre,Pro-vax,Peu touché,Neutre,Neutre,Peu,Peu,Neutre
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Centre,Neutre,Non touché,Neutre,Neutre,Neutre,Peu,Plutôt
+Anti-vax,Femme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,Centre,Neutre,Non touché,Plutôt,Pas du tout,Plutôt,Très,Plutôt
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Pro-vax,Non touché,Neutre,Plutôt,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Neutre,Non touché,Peu,Neutre,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 1 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Neutre
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 1 000 000 habitants,NA,Anti-Vax,Très touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 1 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,Gauche,Neutre,Non touché,Peu,Neutre,Peu,Peu,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 1 000 habitants,Extrème-droite,Neutre,Non touché,Peu,Très,Peu,Pas du tout,Peu
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Pas du tout,Peu
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Anti-Vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Neutre,Non touché,Peu,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Droite,Neutre,Non touché,Peu,Très,Pas du tout,Peu,Pas du tout
+Neutre,Homme,18-25 ans,0,Etudiants,Plus de 1 000 000 habitants,NA,Neutre,Non touché,Très,Pas du tout,Plutôt,Plutôt,Plutôt
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Peu,Peu
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Neutre,Neutre,Neutre,Peu,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Femme,18-25 ans,3,Etudiants,Plus de 1 000 000 habitants,Gauche,Pro-vax,Non touché,Pas du tout,Plutôt,Pas du tout,Peu,Peu
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Neutre,Non touché,Plutôt,Neutre,Peu,Neutre,Peu
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 1 000 000 habitants,NA,Pro-vax,Non touché,Neutre,Très,Peu,Pas du tout,Peu
+Neutre,Homme,56-65 ans,2,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 000 habitants,NA,Anti-Vax,Non touché,Neutre,Neutre,Neutre,Neutre,Plutôt
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,NA,Pro-vax,Non touché,Peu,Plutôt,Pas du tout,Peu,Pas du tout
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Pas du tout,Peu
+Anti-vax,Homme,18-25 ans,0,Etudiants,Moins de 10 000 habitants,Droite,Neutre,Non touché,Très,Pas du tout,Plutôt,Plutôt,Plutôt
+Pro-vax,Homme,18-25 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 000 habitants,NA,Pro-vax,Non touché,Peu,Très,Pas du tout,Peu,Pas du tout
+Neutre,Homme,56-65 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 000 habitants,Gauche,Pro-vax,Non touché,Neutre,Neutre,Neutre,Peu,Neutre
+Pro-vax,Femme,18-25 ans,2,Etudiants,Plus de 1 000 000 habitants,Extrème-gauche,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Pro-vax,Femme,18-25 ans,3,Etudiants,Plus de 1 000 000 habitants,Gauche,Pro-vax,Non touché,Peu,Neutre,Peu,Peu,Peu
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 1 000 000 habitants,NA,Neutre,Peu touché,Neutre,Plutôt,Pas du tout,Pas du tout,Pas du tout
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Anti-Vax,Non touché,Peu,Très,Peu,Pas du tout,Peu
+Pro-vax,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Anti-vax,Homme,18-25 ans,1,Etudiants,Moins de 1 000 habitants,Gauche,Anti-Vax,Non touché,Très,Peu,Plutôt,Neutre,Plutôt
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,NA,Neutre,Non touché,Neutre,Peu,Peu,Neutre,Neutre
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Peu,Très,Pas du tout,Pas du tout,Peu
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Peu,Neutre,Peu,Peu,Neutre
+Pro-vax,Femme,56-65 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,Gauche,Neutre,Non touché,Peu,Plutôt,Peu,Pas du tout,Peu
+Anti-vax,Homme,18-25 ans,0,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 000 habitants,Centre,Neutre,Non touché,Plutôt,Peu,Neutre,Neutre,Neutre
+Pro-vax,Femme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,Gauche,Pro-vax,Non touché,Neutre,Neutre,Neutre,Neutre,Neutre
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 1 000 habitants,NA,Anti-Vax,Peu touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Anti-vax,Homme,36-45 ans,2,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Neutre,Non touché,Plutôt,Peu,Plutôt,Plutôt,Plutôt
+Anti-vax,Femme,18-25 ans,1,Etudiants,Moins de 10 000 habitants,NA,Anti-Vax,Non touché,Très,Pas du tout,Très,Plutôt,Plutôt
+Neutre,Homme,18-25 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 habitants,NA,Neutre,Non touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Neutre,Homme,18-25 ans,3,Alternant,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,NA,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Neutre,Homme,18-25 ans,1,Etudiants,Moins de 100 000 habitants,Centre,Neutre,Non touché,Neutre,Pas du tout,Neutre,Neutre,Neutre
+Anti-vax,Femme,46-55 ans,3,Employés,Moins de 100 000 habitants,NA,Anti-Vax,Peu touché,Plutôt,Pas du tout,Très,Très,Plutôt
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Neutre,Neutre,Peu,Neutre,Peu
+Neutre,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Extrème-gauche,Pro-vax,Très touché,Neutre,Peu,Neutre,Neutre,Neutre
+Pro-vax,Femme,46-55 ans,2,Employés,Moins de 10 000 habitants,NA,Neutre,Non touché,Plutôt,Neutre,Neutre,Peu,Neutre
+Neutre,Femme,26-35 ans,2,Employés,Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Neutre,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Femme,56-65 ans,3,Employés,Moins de 10 000 habitants,Centre,Pro-vax,Peu touché,Peu,Plutôt,Peu,Pas du tout,Peu
+Anti-vax,Homme,56-65 ans,1,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Extrème-gauche,Anti-Vax,Non touché,Plutôt,Peu,Très,Très,Plutôt
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 1 000 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Neutre
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Anti-Vax,Non touché,Plutôt,Neutre,Plutôt,Plutôt,Plutôt
+Anti-vax,Homme,46-55 ans,0,Employés,Moins de 10 000 habitants,NA,Anti-Vax,Non touché,Très,Pas du tout,Très,Très,Très
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,NA,Pro-vax,Non touché,Neutre,Peu,Peu,Plutôt,Peu
+Neutre,Homme,18-25 ans,3,Employés,Moins de 1 000 000 habitants,Centre,Neutre,Non touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Neutre,Femme,18-25 ans,1,Etudiants,Moins de 10 000 habitants,Gauche,Neutre,Peu touché,Neutre,Neutre,Plutôt,Neutre,Plutôt
+Pro-vax,Homme,18-25 ans,2,Etudiants,Moins de 10 000 habitants,NA,Neutre,Non touché,Neutre,Neutre,Peu,Peu,Neutre
+Pro-vax,Femme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,NA,Pro-vax,Non touché,Peu,Neutre,Peu,Peu,Peu
+Pro-vax,Homme,18-25 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,NA,Pro-vax,Peu touché,Peu,Plutôt,Pas du tout,Pas du tout,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Pro-vax,Peu touché,Neutre,Très,Pas du tout,Pas du tout,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Pas du tout,Peu,Peu
+Neutre,Homme,36-45 ans,2,Fonctionnaire,Moins de 10 000 habitants,Droite,Neutre,Non touché,Plutôt,Peu,Plutôt,Neutre,Plutôt
+Neutre,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,NA,Neutre,Non touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Droite,Pro-vax,Peu touché,Neutre,Neutre,Peu,Peu,Peu
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Gauche,Neutre,Non touché,Neutre,Neutre,Pas du tout,Peu,Pas du tout
+Neutre,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Pas du tout,Plutôt,Pas du tout,Peu,Peu
+Pro-vax,Homme,18-25 ans,2,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Plutôt,Pas du tout,Peu,Peu
+Neutre,Femme,56-65 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,NA,Neutre,Non touché,Peu,Neutre,Peu,Peu,Neutre
+Neutre,Homme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Gauche,Anti-Vax,Peu touché,Plutôt,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Femme,18-25 ans,2,Etudiants,Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Neutre,Neutre,Neutre,Neutre,Neutre
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,NA,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Neutre,Homme,18-25 ans,3,Alternant,Moins de 10 000 habitants,Centre,Pro-vax,Non touché,Pas du tout,Plutôt,Peu,Peu,Pas du tout
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,Gauche,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Neutre
+Pro-vax,Homme,46-55 ans,2,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,Droite,Pro-vax,Non touché,Neutre,Plutôt,Pas du tout,Pas du tout,Peu
+Neutre,Homme,36-45 ans,2,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Centre,Neutre,Non touché,Neutre,Neutre,Neutre,Peu,Plutôt
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Gauche,Pro-vax,Non touché,Peu,Neutre,Pas du tout,Peu,Peu
+Anti-vax,Homme,18-25 ans,0,Etudiants,Moins de 10 000 habitants,Droite,Anti-Vax,Non touché,Très,Peu,Très,Très,Très
+Pro-vax,Femme,18-25 ans,3,Etudiants,Moins de 10 000 habitants,Centre,Pro-vax,Peu touché,Pas du tout,Très,Peu,Peu,Pas du tout
+Pro-vax,Homme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 100 000 habitants,Droite,Pro-vax,Non touché,Peu,Plutôt,Peu,Peu,Peu
+Pro-vax,Femme,46-55 ans,3,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 10 000 habitants,NA,Neutre,Non touché,Neutre,Peu,Neutre,Plutôt,Plutôt
+Anti-vax,Femme,56-65 ans,0,Employés,Moins de 100 000 habitants,NA,Anti-Vax,Non touché,Plutôt,Pas du tout,Très,Très,Très
+Pro-vax,Homme,18-25 ans,3,Etudiants,Moins de 100 000 habitants,Centre,Neutre,Non touché,Pas du tout,Très,Pas du tout,Pas du tout,Pas du tout
+Anti-vax,Femme,46-55 ans,2,"Cadres supérieurs, Professions intellectuelles supérieures",Moins de 1 000 000 habitants,Extrème-droite,Anti-Vax,Non touché,Plutôt,Pas du tout,Très,Très,Très
+Neutre,Femme,Moins de 18 ans,0,Etudiants,Moins de 10 000 habitants,Centre,Anti-Vax,Non touché,Très,Pas du tout,Très,Plutôt,Très
+Neutre,Homme,26-35 ans,0,Employés,Moins de 10 000 habitants,Centre,Neutre,Non touché,Très,Pas du tout,Très,Très,Très
+Anti-vax,Femme,46-55 ans,0,Professions indépendantes,Moins de 100 000 habitants,NA,Anti-Vax,Non touché,Très,Pas du tout,Très,Très,Très
